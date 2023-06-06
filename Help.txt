@@ -1,0 +1,1 @@
+You can use command "down {the file of your victm" and "up {your file path and the victm path} 
