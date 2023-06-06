@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-christophe654/christophe654 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+to use my programe open server.py and with line 4 change the ip to your ip and the port to random port
+
+do this for client.py 
+
+and run server.py send client.py to your victim if: he open the file enjoy else: don't enjoy
